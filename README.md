@@ -17,19 +17,19 @@ You can install these dependencies using pip:
 - [Bard API](https://github.com/bardAPI/bardAPI)
 
 ## Available Commands
-Open Notepad: Opens the Notepad application.
-Open Chrome: Opens the Google Chrome browser.
-Search on YouTube: Opens a YouTube video based on your command.
-Turn Off Wi-Fi: Disables Wi-Fi connectivity.
-Tell Time: Provides the current time.
-Open Camera: Opens the built-in camera application.
-Shutdown: Shuts down the computer.
-Open Spotify: Opens Spotify and plays a specified song.
-Send WhatsApp Message: Sends a WhatsApp message to a specified contact.
-Make Folder: Creates a new folder with a specified name.
-Remove Folder: Deletes a folder with a specified name.
-Open Live Webcam: Opens the webcam and displays the live video feed.
-Open Live Grayscale Webcam: Opens the webcam and displays the live video feed in grayscale.
-Take Image: Captures a photo using the webcam.
+- Open Notepad: Opens the Notepad application.
+- Open Chrome: Opens the Google Chrome browser.
+- Search on YouTube: Opens a YouTube video based on your command.
+- Turn Off Wi-Fi: Disables Wi-Fi connectivity.
+- Tell Time: Provides the current time.
+- Open Camera: Opens the built-in camera application.
+- Shutdown: Shuts down the computer.
+- Open Spotify: Opens Spotify and plays a specified song.
+- Send WhatsApp Message: Sends a WhatsApp message to a specified contact.
+- Make Folder: Creates a new folder with a specified name.
+- Remove Folder: Deletes a folder with a specified name.
+- Open Live Webcam: Opens the webcam and displays the live video feed.
+- Open Live Grayscale Webcam: Opens the webcam and displays the live video feed in grayscale.
+- Take Image: Captures a photo using the webcam.
 
 
